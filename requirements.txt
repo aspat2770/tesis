@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+pymysql
+pandas
+matplotlib
+seaborn
+sqlalchemy
+scikit-learn
+joblib
+rouge_score
